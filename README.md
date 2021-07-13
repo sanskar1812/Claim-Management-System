@@ -12,9 +12,9 @@
 
 >PFA Latest images:-
 
-<b>HOME PAGE</b>
+<b>1.HOME PAGE</b>
 ![Screenshot (3)](https://user-images.githubusercontent.com/35561218/125487653-15b0b04b-8d59-4a1e-b054-82d5f4044274.png)
-<b>Claim PAGE</b>
+<b>2.Claim PAGE</b>
 ![Screenshot (4)](https://user-images.githubusercontent.com/35561218/125487675-cae6e860-450e-423c-81ce-88fc05fe3ade.png)
-<b>Claim Submission Page</b>
+<b>3.Claim Submission Page</b>
 ![Screenshot (5)](https://user-images.githubusercontent.com/35561218/125487694-8945ee15-8154-4ecc-84c0-0f796d6cb93d.png)
