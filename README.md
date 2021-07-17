@@ -8,6 +8,8 @@
 <li>Spring Tool Suite
 <li>MySql command line client</li>
 <li>Download Lombok JAR from <a href="https://projectlombok.org/download">Click Here</a> & install in your STS Folder </li>
+<li>Tomcat Jasper</li>
+ <li>h2-console</li>
 </ol>
 
 >PFA Latest images:-
