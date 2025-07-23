@@ -14,10 +14,6 @@ Overview
 
 >PFA Latest images:-
 
-<b>1.HOME PAGE</b>
-![mansi-2](https://github.com/sanskar1812/Claim-Management-System/assets/35561218/8ae1137e-2427-4e61-8c88-9e18aa6399fe)
-
-
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/35561218/125487653-15b0b04b-8d59-4a1e-b054-82d5f4044274.png)
 <b>2.Claim PAGE</b>
